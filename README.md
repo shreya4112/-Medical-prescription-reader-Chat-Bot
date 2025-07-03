@@ -1,4 +1,4 @@
-# Dawaai: Revolutionizing Healthcare Accessibility and Inclusion 👩‍⚕️👨‍⚕️💊
+# Dawaai: Revolutionizing Healthcare Accessibility and Inclusion 
 
 ## Project Overview
 Dawaai is a healthcare platform designed to prioritize inclusion and diversity. It offers a user-friendly interface where individuals from diverse backgrounds can easily sign up and upload their medical prescriptions. Leveraging OCR technology and AI-powered chatbot capabilities, the platform provides personalized and accessible healthcare guidance in all 22 Indian languages. Users can seamlessly add prescribed medicines to their shopping cart, ensuring convenience and inclusivity. With a vision of promoting Diversity and Inclusion, the platform also integrates speech recognition for enhanced accessibility and plans to introduce a community feature for connecting users with similar health experiences.
